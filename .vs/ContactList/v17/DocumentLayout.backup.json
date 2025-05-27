@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "C:\\Users\\vu484\\Desktop\\BT_DiemQT\\ContactList\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{E957BA17-7D2A-4027-9C4F-BDB09B0A8756}|ContactList\\ContactList.csproj|c:\\users\\vu484\\desktop\\bt_diemqt\\contactlist\\contactlist\\addcontactform.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{E957BA17-7D2A-4027-9C4F-BDB09B0A8756}|ContactList\\ContactList.csproj|solutionrelative:contactlist\\addcontactform.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E957BA17-7D2A-4027-9C4F-BDB09B0A8756}|ContactList\\ContactList.csproj|c:\\users\\vu484\\desktop\\bt_diemqt\\contactlist\\contactlist\\addcontactform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E957BA17-7D2A-4027-9C4F-BDB09B0A8756}|ContactList\\ContactList.csproj|solutionrelative:contactlist\\addcontactform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E957BA17-7D2A-4027-9C4F-BDB09B0A8756}|ContactList\\ContactList.csproj|c:\\users\\vu484\\desktop\\bt_diemqt\\contactlist\\contactlist\\addcontactform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E957BA17-7D2A-4027-9C4F-BDB09B0A8756}|ContactList\\ContactList.csproj|solutionrelative:contactlist\\addcontactform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E957BA17-7D2A-4027-9C4F-BDB09B0A8756}|ContactList\\ContactList.csproj|c:\\users\\vu484\\desktop\\bt_diemqt\\contactlist\\contactlist\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E957BA17-7D2A-4027-9C4F-BDB09B0A8756}|ContactList\\ContactList.csproj|solutionrelative:contactlist\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -18,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,7 +42,44 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AddContactForm.cs",
+              "DocumentMoniker": "C:\\Users\\vu484\\Desktop\\BT_DiemQT\\ContactList\\ContactList\\AddContactForm.cs",
+              "RelativeDocumentMoniker": "ContactList\\AddContactForm.cs",
+              "ToolTip": "C:\\Users\\vu484\\Desktop\\BT_DiemQT\\ContactList\\ContactList\\AddContactForm.cs",
+              "RelativeToolTip": "ContactList\\AddContactForm.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAtwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T02:41:06.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AddContactForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\vu484\\Desktop\\BT_DiemQT\\ContactList\\ContactList\\AddContactForm.cs",
+              "RelativeDocumentMoniker": "ContactList\\AddContactForm.cs",
+              "ToolTip": "C:\\Users\\vu484\\Desktop\\BT_DiemQT\\ContactList\\ContactList\\AddContactForm.cs [Design]",
+              "RelativeToolTip": "ContactList\\AddContactForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T02:40:44.098Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "AddContactForm.resx",
+              "DocumentMoniker": "C:\\Users\\vu484\\Desktop\\BT_DiemQT\\ContactList\\ContactList\\AddContactForm.resx",
+              "RelativeDocumentMoniker": "ContactList\\AddContactForm.resx",
+              "ToolTip": "C:\\Users\\vu484\\Desktop\\BT_DiemQT\\ContactList\\ContactList\\AddContactForm.resx",
+              "RelativeToolTip": "ContactList\\AddContactForm.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-05-27T02:40:42.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "MainForm.cs",
               "DocumentMoniker": "C:\\Users\\vu484\\Desktop\\BT_DiemQT\\ContactList\\ContactList\\MainForm.cs",
               "RelativeDocumentMoniker": "ContactList\\MainForm.cs",
@@ -43,7 +92,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "MainForm.cs [Design]",
               "DocumentMoniker": "C:\\Users\\vu484\\Desktop\\BT_DiemQT\\ContactList\\ContactList\\MainForm.cs",
               "RelativeDocumentMoniker": "ContactList\\MainForm.cs",
