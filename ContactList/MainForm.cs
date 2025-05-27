@@ -29,7 +29,8 @@ namespace ContactList
 
         private void btnAdd_Click(object sender, EventArgs e)
         {
-
+            AddContactForm addForm = new AddContactForm();
+            addForm.ShowDialog(); 
         }
     }
 }
